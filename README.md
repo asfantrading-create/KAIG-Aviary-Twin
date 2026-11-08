@@ -5,7 +5,9 @@
 برنامج Windows يعمل دون إنترنت: مشهد ثلاثي الأبعاد للقبة، نموذج محاكاة للمناخ والتبريد والطاقة والمياه والطيور والزوار، 10 سيناريوهات طوارئ وتدريب، وتقارير PDF.
 
 ## التحميل / Download
-➡️ **[صفحة الإصدارات / Releases](../../releases/latest)** ← `KAIG-Aviary-Twin-1.0.0-Portable.exe`
+⬇️ **[تحميل مباشر / Direct download — KAIG-Aviary-Twin-1.0.0-Portable.exe (117 MB)](https://media.githubusercontent.com/media/asfantrading-create/KAIG-Aviary-Twin/main/KAIG-Aviary-Twin-1.0.0-Portable.exe)**
+
+أو من / or from: [صفحة الإصدارات / Releases](../../releases/latest)
 
 - نسخة محمولة: لا تحتاج تثبيتًا، فقط شغّل الملف.
 - دليل المستخدم (عربي/إنجليزي) موجود داخل البرنامج: زر القائمة ☰ ← دليل المستخدم.
